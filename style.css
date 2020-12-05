@@ -1,0 +1,115 @@
+body{
+	background-color: #161625;
+}
+#bdiv
+{
+	padding-bottom: 2.5%;
+	text-align: center;
+}
+#div11
+{
+	background-color: #f4c2c2 ;
+	color:#2c3e50;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	border: solid;
+	border-color: black;
+}
+#text{
+	color: #C71585;
+}
+#calc
+{
+	border: solid;
+}
+#h11
+{
+  font-family:Georgia, serif;
+	font-size: 450%;
+	text-align: center;
+  background-image: url('https://cdn.pixabay.com/photo/2016/11/10/14/16/floral-1814372__480.jpg');
+  margin-top:0px;
+	margin-left: 100px;
+  color:#161625;
+	border: solid;
+	border-color: black;
+}
+#h22
+{
+	font-family:Georgia, serif;
+	font-size: 350%;
+	text-align: center;
+	text-transform: upper;
+	color:#ffffff;
+	padding-bottom:10px;
+}
+#h23
+{
+	font-size: 350%;
+	text-align:center;
+	text-transform: upper;
+	color:#ffffff;
+	padding-bottom:10px;
+
+}
+#movb11
+{
+	font-family: 'Karla', sans-serif;
+	margin-right: 15px;
+  background-color: #BA55D3;
+  text-transform: capitalize;
+	padding: 10px;
+	font-size: 40px;
+	border: solid;
+	border-color: black;
+}
+#fampb11
+{
+	font-family: 'Karla', sans-serif;
+	margin-right: 15px;
+  background-color: #DB7093;
+	padding: 10px;
+	font-size: 40px;
+	border: solid;
+	border-color: black;
+}
+#carb11
+{
+	font-family: 'Karla', sans-serif;
+	margin-right: 15px;
+	background-color: #DA70D6;
+	padding: 10px;
+	font-size: 40px;
+	border: solid;
+	border-color: black;
+}
+#utibut
+{
+	padding-left: 94%;
+	padding-top: 1%;
+}
+#calbmi
+{
+	text-align: center;
+  color:#ecf0f1;
+}
+#contact
+{
+	font-size: 25px;
+}
+#smit_logo
+{
+	padding-top:20px;
+}
+#mov{
+	padding-left:6%;
+}
+#famp2{
+	padding-left:6%;
+}
+#car{
+	padding-left:10%;
+}
+#disc{
+	float:right;
+}
